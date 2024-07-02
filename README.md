@@ -7,6 +7,6 @@
   
 <div align="center">
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eibex&theme=default%20&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=0000&text_color=ffff&icon_color=F2E699&border_color=ffff&title_color=F2E699)](#)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eibex&theme=default%20&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=0000&text_color=d4d4d4&icon_color=f2e699&border_color=d4d4d4&title_color=f2e699)](#)
 
 </div>
